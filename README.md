@@ -26,3 +26,5 @@ https://logging.o3.ru/messages/0931689395010000-70012d16ccd7bafa
 
 https://tracing.o3.ru/trace/2555bb1cb23fbe05?env=prod
 
+4 Задание
+
