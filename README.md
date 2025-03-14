@@ -26,7 +26,13 @@ https://tracing-prod.o3.ru/trace/18e300c673bc5d03?env=prod
 
 3 Задание
 
+Идем на logging.o3.ru пишем в поиске service: "pvz-api-return-seller-giveout"
+
+Находим подходяюю ошибку под условия
+
 https://logging.o3.ru/messages/0931689395010000-70012d16ccd7bafa
+
+Переходим по трейсу и смотрим его
 
 https://tracing.o3.ru/trace/2555bb1cb23fbe05?env=prod
 
