@@ -1,4 +1,6 @@
-[trace-18e300c673bc5d03.json](https://github.com/user-attachments/files/19249413/trace-18e300c673bc5d03.json)1 Задание
+1 Задание
+
+[trace-18e300c673bc5d03.json](https://github.com/user-attachments/files/19249413/trace-18e300c673bc5d03.json)
 
 ![01](https://github.com/user-attachments/assets/4786df66-313d-48a5-97e8-2017d4299dba)
 
