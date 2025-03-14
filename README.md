@@ -14,9 +14,13 @@ https://tracing-prod.o3.ru/trace/18e300c673bc5d03?env=prod
 
 2 Задание
 
-![01](https://github.com/user-attachments/assets/fb1c89ec-97fa-4d6e-8da2-d0654508f6cc)
+Ищем гафану с нужныи БД
 
 Имя синхронной реплики http://prodpostgres6722-90112z504.h.o3.ru:7001/ 
+
+![01](https://github.com/user-attachments/assets/fb1c89ec-97fa-4d6e-8da2-d0654508f6cc)
+
+Находим нужный гаджет
 
 ![02](https://github.com/user-attachments/assets/62a4d5b0-1a29-42b2-8883-a5aab585f634)
 
