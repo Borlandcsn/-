@@ -26,5 +26,13 @@ https://logging.o3.ru/messages/0931689395010000-70012d16ccd7bafa
 
 https://tracing.o3.ru/trace/2555bb1cb23fbe05?env=prod
 
+Ответы на вопросы
+
+  1.PVZ_polo_anas
+  
+  2.5.94ms
+  
+  3.service: "pvz-api-return-seller-giveout" AND message:"39932-7162"
+  
 4 Задание
 
