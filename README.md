@@ -22,3 +22,8 @@ https://tracing-prod.o3.ru/trace/18e300c673bc5d03?env=prod
 ![02](https://github.com/user-attachments/assets/62a4d5b0-1a29-42b2-8883-a5aab585f634)
 
 3 Задание
+
+https://logging.o3.ru/messages/0931689395010000-70012d16ccd7bafa
+
+https://tracing.o3.ru/trace/2555bb1cb23fbe05?env=prod
+
